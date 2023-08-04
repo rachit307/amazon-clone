@@ -1,7 +1,7 @@
 # amazon-clone
 This repository showcases a basic yet functional front-end implementation of the Amazon website using HTML and CSS. This clone aims to provide a simplified representation of the Amazon user interface
 
-Features
+#Features
 Flexible Grid Layout: Experience the magic of CSS Flexbox, as the items within the grid adjust themselves automatically based on available space, ensuring an optimal layout on various screen sizes.
 
 Hover Transformations: Enjoy captivating hover effects that smoothly scale and transform grid items, adding an extra layer of interactivity and aesthetic appeal.
